@@ -580,7 +580,7 @@ hashtag `#session`,`#`
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**```[Official website]()```**:ghost::point_right::love_letter:**``````[Contact Me]()``````**:love_letter: :cherries:**No restrictions on any language chat**:cherries:
 ```
-https://sog.zcyph.cc/offtopic?public_key=b7ec84eb480a17994cadfbbc36ec7f48f900adb8ded09d307ad52d1383632f78
+https://sog.zcyph.cc/offtopic?public_key=e56fa54f9da6df91928f97023e8651e2df10fb6cf743a1ec96d0543acb8f2e7a
 ```
 hashtag `#session`,`#chat`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,
 ***********************************************************************************************************************************************************************
